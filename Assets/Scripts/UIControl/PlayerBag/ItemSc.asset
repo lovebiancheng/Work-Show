@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dc6a2cd00885e340a159c3db8b6ec4d, type: 3}
+  m_Name: ItemSc
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1001
+    itemName: "\u70BD\u70ED"
+    itemQuality: "<color=#FFFFFF>\u666E\u901A</color>"
+    itemSprite: {fileID: 21300000, guid: 87c973afca5ce1842857210d52136c32, type: 3}
+    itemDescription: 
+    itemPrice: 100
+    itemSpeed: 1
+    itemRotation: 2
+    itemArc: 3
+    itemHardness: 4
+    moveSpeed: 0
+  - id: 1002
+    itemName: "\u5357\u5317"
+    itemQuality: "\u666E\u901A"
+    itemSprite: {fileID: 21300000, guid: fad90b69df1879f4ea1ef2a8b7c8d9a6, type: 3}
+    itemDescription: 
+    itemPrice: 200
+    itemSpeed: 2
+    itemRotation: 3
+    itemArc: 4
+    itemHardness: 1
+    moveSpeed: 0
+  - id: 2001
+    itemName: "\u5F69\u8679"
+    itemQuality: " <color=#1C86EE>\u7A00\u5C11</color>"
+    itemSprite: {fileID: 21300000, guid: 5e05b9bc3abc6644a8849e76e59445d0, type: 3}
+    itemDescription: 
+    itemPrice: 100
+    itemSpeed: 2
+    itemRotation: 3
+    itemArc: 1
+    itemHardness: 4
+    moveSpeed: 0
+  - id: 2002
+    itemName: "\u5149\u73AF"
+    itemQuality: "\u666E\u901A"
+    itemSprite: {fileID: 21300000, guid: 84f429f6f2508ea41a63e7d7a8336cd3, type: 3}
+    itemDescription: 
+    itemPrice: 200
+    itemSpeed: 2
+    itemRotation: 3
+    itemArc: 1
+    itemHardness: 4
+    moveSpeed: 0
+  - id: 3001
+    itemName: "\u654F\u6377\u4E4B\u9774"
+    itemQuality: "<color=#B23AEE>\u53F2\u8BD7</color>"
+    itemSprite: {fileID: 21300000, guid: 97a7d3fb639ea9b478b0b58110a8c12c, type: 3}
+    itemDescription: 
+    itemPrice: 100
+    itemSpeed: 0
+    itemRotation: 0
+    itemArc: 0
+    itemHardness: 0
+    moveSpeed: 20
+  - id: 3002
+    itemName: "\u8010\u9020\u4E4B\u9774"
+    itemQuality: 
+    itemSprite: {fileID: 21300000, guid: af7dbe18aa8d65e43a69a46195393a1b, type: 3}
+    itemDescription: 
+    itemPrice: 220
+    itemSpeed: 0
+    itemRotation: 0
+    itemArc: 0
+    itemHardness: 0
+    moveSpeed: 15
+  - id: 4001
+    itemName: "\u671D\u9633"
+    itemQuality: 
+    itemSprite: {fileID: 21300000, guid: 0c7591fc2e32e0b448ac818f9bd9ec5d, type: 3}
+    itemDescription: 
+    itemPrice: 200
+    itemSpeed: 0
+    itemRotation: 0
+    itemArc: 0
+    itemHardness: 0
+    moveSpeed: 0
+  - id: 4002
+    itemName: "\u6050\u9F99"
+    itemQuality: 
+    itemSprite: {fileID: 21300000, guid: 1ba9e747bbee61140ac5601d3e73184e, type: 3}
+    itemDescription: 
+    itemPrice: 200
+    itemSpeed: 0
+    itemRotation: 0
+    itemArc: 0
+    itemHardness: 0
+    moveSpeed: 0

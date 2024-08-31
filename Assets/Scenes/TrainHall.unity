@@ -25706,10 +25706,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea13e6ff597958f45a3ce23b98a7ff4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  characterController: {fileID: 0}
   speed: 10
   rotateSpeed: 1
   gravity: -4.58
+  velocity: {x: 0, y: 0, z: 0}
   playerAnimator: {fileID: 0}
+  isGround: 0
   jumpHeight: 0.1
   walkToRun: 0
 --- !u!143 &5866666021092521801

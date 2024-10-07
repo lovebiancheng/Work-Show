@@ -82,15 +82,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-        //bats = new GameBat[xNum, yNum];
-        //sameFirstBatList = new List<GameBat>();
-        //sameFirstBatHashSet = new HashSet<Vector2Int>();
-        //sameSecondBatList = new List<GameBat>();
-        //sameSecondBatHashSet = new HashSet<Vector2Int>();
-        //firstVector = new Vector2Int();
-        //secondVector = new Vector2Int();
-        ////实例化字典，并将不同状态添加进字典
-        //itemPrefabDict = new Dictionary<ItemType, GameObject>();
+        
         for(int i=0;i<itemPrefabs.Length; i++)
         {
             if (!itemPrefabDict.ContainsKey(itemPrefabs[i].itemType))

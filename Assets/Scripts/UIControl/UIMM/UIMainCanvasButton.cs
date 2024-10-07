@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class UIMainCanvasButton : MonoBehaviour 
@@ -24,7 +25,10 @@ public class UIMainCanvasButton : MonoBehaviour
         string canv = "ShopCanvas";
         UICanvasManager.OpenPanel(canv);
     }
-
+    public void ButtonZhanDouClick()
+    {
+        SceneManager.LoadScene("TrainHall");
+    }
     
     
 

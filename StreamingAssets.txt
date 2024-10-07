@@ -1,0 +1,15 @@
+Ball.prefab=Assets/Resources/Prefabs/Ball.prefab
+BeiBao.prefab=Assets/Resources/Prefabs/BeiBao.prefab
+BatPrefab.prefab=Assets/Resources/Prefabs/EliminationPrefabs/BatPrefab.prefab
+GridPrefab.prefab=Assets/Resources/Prefabs/EliminationPrefabs/GridPrefab.prefab
+BallMachine.prefab=Assets/Resources/Prefabs/FireMachinePrefab/BallMachine.prefab
+ItemImage.prefab=Assets/Resources/Prefabs/ItemImage.prefab
+MainCanvas.prefab=Assets/Resources/Prefabs/MainCanvas.prefab
+PlayerBag.prefab=Assets/Resources/Prefabs/PlayerBag.prefab
+ShopCanvas.prefab=Assets/Resources/Prefabs/ShopCanvas.prefab
+ShopItem.prefab=Assets/Resources/Prefabs/ShopItem.prefab
+DangBan.prefab=Assets/Resources/Prefabs/TablesPrefab/DangBan.prefab
+LondonTable.prefab=Assets/Resources/Prefabs/TablesPrefab/LondonTable.prefab
+RioTable.prefab=Assets/Resources/Prefabs/TablesPrefab/RioTable.prefab
+TokyoTable.prefab=Assets/Resources/Prefabs/TablesPrefab/TokyoTable.prefab
+BallMachine.prefab=Assets/Resources/TrainPrefabs/BallMachine.prefab
